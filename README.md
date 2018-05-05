@@ -1,4 +1,5 @@
-# minjs
+## Identifying a js file is minified or not
+
 This is an effort to find out a threshold value, which can be used to determine whether a file has minified content or not.
 
 We will generate an improvement index value for the file content and if the improvement index is greater than the threshold we identified from the below results, the file might be unminified.
