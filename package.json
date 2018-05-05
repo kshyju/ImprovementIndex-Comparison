@@ -1,0 +1,16 @@
+{
+  "name": "minjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "espree": "^3.5.4",
+    "express": "^4.16.3"
+  }
+}
