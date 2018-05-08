@@ -15,4 +15,4 @@ I ran this test with a couple of popular libaries. Both unminified and minified 
 
 ![alt text](/statics/improvement-index-table.png "Tabular data")
 
-![alt text](/statics/improvement-index-chart.png "Tabular data")
+![alt text](/statics/improvement-index-chart.png "Chart data")

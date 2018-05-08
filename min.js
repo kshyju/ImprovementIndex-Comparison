@@ -21,7 +21,10 @@ var files = [
   "mootools-1.6.0.js",
   "react-16.3.2.js",
   "select2-4.0.5.js",
-  "vue-2.5.16.js"
+  "vue-2.5.16.js",
+  "sonarwhal.com-nav.js",
+  "sonarwhal.com-scanner-common.js",
+  "sonarwhal.com-scanner-submit.js"
 
 ];
 
