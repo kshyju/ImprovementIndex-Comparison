@@ -17,7 +17,7 @@ I ran this test with a couple of popular libaries. Both unminified and minified 
 
 ![alt text](/statics/improvement-index-chart.png "Chart data")
 
-##5 Identifying a js file is minified or not
+## Getting an Ideal threshold for your scripts
 
 While 75 seems like a reasonable value to be used as the threshold, you might want to tweak it for your environment. If you want to find the ideal number for your scripts, you may run the tests with your script by following the steps
 
